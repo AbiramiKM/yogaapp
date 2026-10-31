@@ -1,0 +1,17 @@
+Estimated cost structure
+
+Component	              Can it be free?
+React + TypeScript	       	Yes
+Tailwind CSS	               	Yes
+Go backend	             	Yes
+PostgreSQL			Yes, self-hosted
+MediaPipe AI			Yes, no per-session cloud inference charge
+Camera processing		Yes, local device
+Yoga exercise instructions	Yes
+Exercise demonstration videos	Yes, if you create them
+Domain name	                Usually paid
+Production hosting		Usually paid
+Database hosting		Depends on hosting
+Video storage and delivery	Depends on usage
+Email OTP service		May cost money
+Backups and monitoring		May cost money
